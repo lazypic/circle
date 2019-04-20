@@ -2,8 +2,8 @@
 
 
 ## information
-- s3 : s3://project-circle
-- local : ~/project/circle
-- github : https://github.com/lazypic/circle
+- S3 : s3://project-circle
+- Local : ~/project/circle
+- Github : https://github.com/lazypic/circle
 - Amazon SNS : circle
-- slack : #circle
+- Slack : #circle
