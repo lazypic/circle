@@ -1,5 +1,5 @@
-# circle
-
+# Circle
+블렌더를 이용한 3D콘텐츠 파이프라인 제작 프로젝트
 
 ## information
 - S3 : s3://project-circle
