@@ -17,3 +17,5 @@ IP를 이용해서 인공지능을 이용해서 콘텐츠를 제작하려고 합
 ## Reference
 
 - https://youtu.be/Y3KOQ8_3k40?si=x0o9QC5YgHuwuwKS
+- Sora: https://cdn.openai.com/sora/videos/otter-on-surfboard.mp4
+
